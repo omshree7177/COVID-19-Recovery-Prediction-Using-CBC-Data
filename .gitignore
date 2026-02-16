@@ -1,0 +1,16 @@
+.env
+node_modules/
+.next/
+out/
+.DS_Store
+pnpm-debug.log*
+npm-debug.log*
+.pnpm-store/
+ml_artifacts/
+data/
+datasets/
+*.zip
+*.pkl
+*.joblib
+*.csv
+*.parquet
