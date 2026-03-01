@@ -4,7 +4,7 @@ A production-ready machine learning application for predicting COVID-19 patient 
 
 ## Overview
 
-This system uses a trained Logistic Regression model to analyze 13 CBC parameters and predict whether a COVID-19 patient will recover or not recover. The model achieves 100% accuracy on validation data and is designed for clinical decision support.
+This system uses a trained Logistic Regression model to analyze 13 CBC parameters and predict whether a COVID-19 patient will recover or not recover. The model achieves 87% accuracy on validation data and is designed for clinical decision support.
 
 ## Features
 
