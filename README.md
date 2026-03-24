@@ -156,11 +156,7 @@ Get feature ranges and model information.
 - **Train/Test Split**: 80/20
 
 ### Performance Metrics
-- **Accuracy**: 100%
-- **Precision**: 100%
-- **Recall**: 100%
-- **F1-Score**: 1.0
-- **AUC-ROC**: 1.0
+- **Accuracy**: 87%
 
 ### Feature Importance
 The model analyzes the following CBC parameters in order of typical clinical importance:
@@ -263,15 +259,14 @@ If you use this system in your research or clinical work, please cite:
 
 ```
 COVID-19 Patient Outcome Prediction System (2024)
-https://github.com/your-org/covid-prediction
+https://github.com/omshree7177/covid-prediction
 ```
 
 ## Support
 
 For issues, questions, or support:
 - Open an issue on GitHub
-- Contact: support@example.com
-- Documentation: `/documentation` page in the application
+- Contact: omshreesorathia.com
 
 ## Acknowledgments
 
